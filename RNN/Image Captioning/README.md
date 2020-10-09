@@ -19,7 +19,7 @@ pip install package_name
 ```
 ## Architecture
 
-![Architecture](https://github.com/siddarth-c/MachineLearning/blob/master/RNN/Image%20Captioning/Images/Architecture.png "Title")
+![Architecture](https://github.com/siddarth-c/MachineLearning/blob/master/RNN/Image%20Captioning/Architecture.png "Title")
 
 1. The image is resized into the dimension 229x229x3.
 2. The reshaped image is then passed into a pre-trianed model InceptionV3(modified) to extract the feature vectors.
