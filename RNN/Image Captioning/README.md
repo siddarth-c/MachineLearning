@@ -37,7 +37,7 @@ Both the LSTM of image and captions must have the same size to share the states.
 
 Used the [Flicker8K](https://www.kaggle.com/shadabhussain/flickr8k) from Kaggle.
 
-This project is loosely inspired from the [Show and Tell paper](https://arxiv.org/abs/1411.4555) by Google.
+This project is loosely inspired from the [Show, Attend and Tell paper](https://arxiv.org/abs/1411.4555) by Google.
 
 Also refer this [link](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) for a clear understanding on LSTM. 
 
