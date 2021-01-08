@@ -9,5 +9,5 @@ Deep learning is machine learning on steroids: it uses a technique that gives ma
 
 Blah Blah ....... 
 
-
-Einstein : The definition of insanity is doing the same thing over and over again, but expecting different results. <br>
+But I can assure you Einstein was wrong at least when he said this,
+"The definition of insanity is doing the same thing over and over again, but expecting different results." <br>
