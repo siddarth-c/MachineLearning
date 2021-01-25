@@ -1,4 +1,5 @@
-# Toxic Comment Filter
+# Trigger Word Detection
+
 
 A trigger word is defined as “a word that initiates a process or course of action". <br>
 Essentially, any word that gets someone to do something — anything — can be defined as a trigger word.<br>
