@@ -22,7 +22,7 @@ pip install tensorflow
 
 To run the application you will be needing the following files:
 
-1. [Streamlit file](https://github.com/siddarth-c/MachineLearning/blob/master/RNN/ToxicComments/ToxicComments%20Streamlit.py)
+1. [Streamlit file](https://github.com/siddarth-c/MachineLearning/blob/master/NLP/ToxicComments/ToxicComments%20Streamlit.py)
 2. [Word to integer dictionary](https://drive.google.com/file/d/133ofQ8GR52Q5zlBgoQAa4xDY0sEqmJGS/view?usp=sharing)
 3. [Pre-trained Model](https://drive.google.com/file/d/1fYJp1UOdiALenc3PGK4U1d2bz_f1X0ki/view?usp=sharing)
 
@@ -34,10 +34,10 @@ streamlit run ToxicComments Streamlit.py
 ## Result
 
 This image is shows the result of the Neural Network when a hate free comment is given as input.
-![Hate Free Comment](https://github.com/siddarth-c/MachineLearning/blob/master/RNN/ToxicComments/HateFreeComment.jpg?raw=true "Title")
+![Hate Free Comment](https://github.com/siddarth-c/MachineLearning/blob/master/NLP/ToxicComments/HateFreeComment.jpg?raw=true "Title")
 
 This image is shows the result of the Neural Network when a hate/toxic comment is given as input.
-![Hate Comment](https://github.com/siddarth-c/MachineLearning/blob/master/RNN/ToxicComments/HateComment.jpg?raw=true "Title")
+![Hate Comment](https://github.com/siddarth-c/MachineLearning/blob/master/NLP/ToxicComments/HateComment.jpg?raw=true "Title")
 
 ## Acknowledgements
 
