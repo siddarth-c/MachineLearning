@@ -16,7 +16,7 @@ Following are the main libraries used in this notebook:<br>
 
 ## About
 
-This model is trained to respond to the word 'Marvin'. The architecture used in this model is similar to ![here](https://github.com/siddarth-c/MachineLearning/blob/master/RNN/TriggerWordDetection/Model_architecture.png "Title").
+This model is trained to respond to the word 'Marvin'. The architecture used in this model is similar to ![here](https://github.com/siddarth-c/MachineLearning/blob/master/NLP/TriggerWordDetection/Model_architecture.png "Title").
 
 You may have found many trigger words notebooks on GitHub which are similar to the one found in the Coursera Deeplearning specialization. But this notebook is simple and different in the following ways : <br>
 
