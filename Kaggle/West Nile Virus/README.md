@@ -9,6 +9,6 @@ Given weather, location, testing, and spraying data, we predict when and where d
 A more accurate method of predicting outbreaks of West Nile virus in mosquitos would help the City of Chicago and CPHD more efficiently and effectively 
 allocate resources towards preventing transmission of this potentially deadly virus. 
 
-<br>
+<br> <br>
 ## Acknowledgements 
 This competition is sponsored by the Robert Wood Johnson Foundation. Data is provided by the Chicago Department of Public Health.
