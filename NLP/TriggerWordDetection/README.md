@@ -22,7 +22,7 @@ You may have found many trigger words notebooks on GitHub which are similar to t
 
 1. A similar model but with different dimensions and activation functions were used.
 2. The model was trained on a different dataset.
-3. Different library (Vebroasa) was used for extracting features from the audio signal.
+3. Different library (Librosa) was used for extracting features from the audio signal.
 
 Also this model was created from scratch and is not another replica of the coursera notebook. For the sake of simplicity the notebook has been divides into 2 parts. <br>
 1. TWD Part 1 - Data pre-processing and creation
