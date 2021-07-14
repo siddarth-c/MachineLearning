@@ -23,8 +23,8 @@ pip install tensorflow
 To run the application you will be needing the following files:
 
 1. [Streamlit file](https://github.com/siddarth-c/MachineLearning/blob/master/NLP/ToxicComments/ToxicComments%20Streamlit.py)
-2. [Word to integer dictionary](https://drive.google.com/file/d/133ofQ8GR52Q5zlBgoQAa4xDY0sEqmJGS/view?usp=sharing)
-3. [Pre-trained Model](https://drive.google.com/file/d/1fYJp1UOdiALenc3PGK4U1d2bz_f1X0ki/view?usp=sharing)
+2. [Word to integer dictionary](https://drive.google.com/file/d/1RAHists8dDo6V1nO7CzhklmvGgeAywAr/view?usp=sharing)
+3. Pre-trained Model
 
 Download the above files and save them in same directory.
 Now run the python line
